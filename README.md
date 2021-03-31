@@ -17,6 +17,7 @@ Hello, my name is Bruno! 👍
 ⚽Interesses Pessoais: Futebol, basquete e video games.
 
 Projetos já realizados: 
+
 •App para projeto da PUC Minas em conjunto com a escola CEPOC (quiz sobre língua portuguesa).
 
 •Cátalogo para empresa Branca cestas feito no InDesign
